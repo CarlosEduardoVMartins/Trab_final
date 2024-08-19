@@ -1,0 +1,2 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,"Carlos Eduarti",carlosvarelamartins@gmail.com,$2y$10$tHSZ.C/5VrmIaMYMPJao9eXGwaWbB1mkAqI3qT66vsrD60UQAioia,0,,"2024-08-15 23:10:48",admin

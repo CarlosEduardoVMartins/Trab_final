@@ -1,0 +1,16 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,aluno,aluno@teste.com,$2y$10$6xnBTC7/92U9ioN9.lieAuzsm24D4AewCg8/QGc42r.dwMFSa3MsC,1,,"2024-07-04 10:34:02",user
+2,cris,cris@teste.com,$2y$10$f4eYlEq7tyH/5dYzxW93..iYVMZwwv4mWxc1fEELx9fbNiI6rQeH2,0,,"2024-07-04 10:38:24",user
+3,churros,churros@uol.com,$2y$10$L43cxyAYh4vlBeDHbtXmj.j2hRnNLA/CVNZNf6pwlwCfDo6qWC3rO,1,,"2024-07-04 10:43:03",user
+4,felipe,felipe@mengao.com,$2y$10$Xb/ZcRVFhbYa/6pmSz1AretxQnl1TU0btNUfQ5IY8agFbANtjX77K,1,,"2024-07-04 10:50:34",user
+5,ana,ana@uol.com,$2y$10$.GCV6yqJE0Td06QcqRb9x.RN1Xn4cF8Lz0tZJsDHmkOR3W07E0IHm,1,,"2024-07-04 16:47:13",user
+6,aannaa,aannaa@uol.com,$2y$10$QQ4Ekl.ZtZ5Yt9mXWz4wvetoyFZHHmWJdgpZKqvQwik8LcmTSK8rm,1,750371,"2024-07-04 16:49:25",user
+7,abc,abc@uol.com,$2y$10$B3cbHrVuBBTXCn3/jHIWVOF7e7Gi8ZoTzAeSi/hoxYJpYcJqKYifq,0,,"2024-07-04 17:08:37",user
+8,admin,fweferf@hotmail.com,$2y$10$Ij3.wXNS1e3PL10E0gau5exAnoVIVf/QHdyJS1cKqRg4UOUqoV4gO,1,791506,"2024-08-01 10:58:15",admin
+9,matheus,fefefef@hotmail.com,$2y$10$xA2OIfeUXpoz8uE8msA8v.2lI.qNs9ictVcQj2VxCQrbHU5qd6mdW,1,,"2024-08-15 09:14:39",user
+10,master,master@teste.com,$2y$10$.6rDM/AgU7qMkXpdQg1m1uxYwkXo88LMoEkPX8qY1JW1hIrvKluFC,0,,"2024-08-15 09:24:15",admin
+11,user,user@teste.com,$2y$10$5paYnGYmszKW.4VLm3s/NeTqHxX6LJBmA9CbTlCaZOp7zkvbkU0eO,1,321820,"2024-08-15 09:33:26",user
+12,rei,rei@teste.com,$2y$10$.bh2HZX6CDFwqFVXU3oOMe71g9ikP0MkiA4sxwYwPS4p0.6qc.OAS,0,,"2024-08-15 15:05:19",admin
+13,bispo,bispo@teste.com,$2y$10$9uQ8aSwMZTzjj6iKkkiIYukhAcFemMdhfevteGHl8LtL0BUKsvUCu,0,,"2024-08-15 15:06:05",user
+14,Matheuss,kebfyuefye7g@gmail.com,$2y$10$4itrzVMJHEg2sW61goOWSuSinA0XnkcD0rwaN00XLp4HHnEwnIqeC,1,,"2024-08-19 09:49:51",admin
+15,USUARIO,egregregre@gmail.com,$2y$10$k6dgF7BFU9uuElsIDndNSeicNhtBsjahqNWH30rDp4p/LZe4mS/AG,0,,"2024-08-19 09:55:34",user
